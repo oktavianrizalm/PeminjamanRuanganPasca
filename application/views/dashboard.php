@@ -162,7 +162,7 @@
             </section>
 
             <footer class="pt-8 mt-8 border-t border-gray-200 text-center text-sm font-medium text-gray-500">
-                🄯 MRO - Sekolah Pascasarjana & FF - BPTI- <button class="cursor-default" onclick="document.getElementById('authModal').classList.remove('hidden')">2025</button>
+                🄯 MRO - Sekolah Pascasarjana & AA & FF - BPTI- <button class="cursor-default" onclick="document.getElementById('authModal').classList.remove('hidden')">2025</button>
             </footer>
         </div>
     </div>
